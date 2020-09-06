@@ -14,3 +14,6 @@ MetaTrader 5 trading tools: Indicators, robots, risk management, signals, custom
 
 
 
+![Set break even](https://github.com/grossman8/TradingTool/blob/master/s4X8G8FQ95.gif)
+
+
