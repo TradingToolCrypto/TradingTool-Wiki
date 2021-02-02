@@ -14,11 +14,14 @@
 *  [attach payment bot](https://github.com/TradingToolCrypto/TradingTool/wiki/3.-Payment-Bot)
 
 # Website 
-[Home](https://tradingtoolcrypto.github.io/index.html)  
-* [Basic Package](https://tradingtoolcrypto.github.io/basic.html)  
-* [Pro Package](https://tradingtoolcrypto.github.io/pro.html)  
-* [Elite Package](https://tradingtoolcrypto.github.io/elite.html)  
+[Home](https://tradingtoolcrypto.com)  
+* [Basic Package](https://tradingtoolcrypto.com/basic.html)  
+* [Pro Package](https://tradingtoolcrypto.com/pro.html)  
+* [Elite Package](https://tradingtoolcrypto.com/elite.html)  
 
+# Telegram Group
+* [Announcements](https://t.me/tradingtool)  
+* [Group Chat](https://t.me/TradingToolCrypto)  
 
 
 
