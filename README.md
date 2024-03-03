@@ -25,6 +25,10 @@
 
 
 
+![Market Orders](https://github.com/grossman8/TradingTool/blob/master/kZ5cN0xuq4.gif)
 
+
+
+![Set break even](https://github.com/grossman8/TradingTool/blob/master/s4X8G8FQ95.gif)
 
 
